@@ -1,0 +1,16 @@
+import HautevilleHouse.FractionalGraphTheoryFuzzyGraphCanonicalLaneLean.FractionalGraphStructure
+import HautevilleHouse.FractionalGraphTheoryFuzzyGraphCanonicalLaneLean.FractionalGraphBridge
+import HautevilleHouse.FractionalGraphTheoryFuzzyGraphCanonicalLaneLean.FuzzyGraphGate
+import HautevilleHouse.FractionalGraphTheoryFuzzyGraphCanonicalLaneLean.FractionalGraphFinalTheorem
+
+namespace HautevilleHouse
+namespace FractionalGraphTheoryFuzzyGraphCanonicalLaneLean
+
+def sourceRepository : String :=
+  "fractional-graph-theory-fuzzy-graph-canonical-lane"
+
+def sourceDescription : String :=
+  "Fractional Graph Theory Fuzzy Graph Canonical Lane"
+
+end FractionalGraphTheoryFuzzyGraphCanonicalLaneLean
+end HautevilleHouse
